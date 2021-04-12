@@ -1,4 +1,4 @@
-module github.com/theshid/go-trok
+module go-trok
 
 go 1.16
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v4"
-	"go-trok/models"
+	"github.com/theshid/go-trok/models"
 	"net/http"
 )
 

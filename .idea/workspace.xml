@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1b7b7f46-6226-42cd-a4f2-59107fa9367e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/item.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/item.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/items.go" beforeDir="false" afterPath="$PROJECT_DIR$/routes/items.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.go" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -66,7 +68,9 @@
       <workItem from="1617457554345" duration="19878000" />
       <workItem from="1617671173016" duration="661000" />
       <workItem from="1618007868163" duration="5584000" />
-      <workItem from="1618053310076" duration="8046000" />
+      <workItem from="1618053310076" duration="8485000" />
+      <workItem from="1618224241517" duration="1444000" />
+      <workItem from="1618226806256" duration="187000" />
     </task>
     <servers />
   </component>
