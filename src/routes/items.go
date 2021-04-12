@@ -4,12 +4,7 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v4"
-<<<<<<< HEAD:src/routes/items.go
 	"github.com/theshid/go-trok/src/models"
-
-=======
-	"github.com/theshid/go-trok/models"
->>>>>>> 72c6936d1eed77ad5d46b9887202e9de69f48832:routes/items.go
 	"net/http"
 )
 
