@@ -40,7 +40,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/go/go1.16/src/go-rest-api-clean-architecture-main" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 72c6936d1eed77ad5d46b9887202e9de69f48832
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -69,7 +73,12 @@
       <workItem from="1617671173016" duration="661000" />
       <workItem from="1618007868163" duration="5584000" />
       <workItem from="1618053310076" duration="8485000" />
+<<<<<<< HEAD
       <workItem from="1618225706261" duration="1089000" />
+=======
+      <workItem from="1618224241517" duration="1444000" />
+      <workItem from="1618226806256" duration="187000" />
+>>>>>>> 72c6936d1eed77ad5d46b9887202e9de69f48832
     </task>
     <servers />
   </component>
