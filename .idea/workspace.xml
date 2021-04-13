@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b7b7f46-6226-42cd-a4f2-59107fa9367e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-trok.iml" beforeDir="false" afterPath="$PROJECT_DIR$/go-trok.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/items.go" beforeDir="false" afterPath="$PROJECT_DIR$/routes/items.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.go" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +30,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
-  </component>
   <component name="ProjectId" id="1qf4wdJ3TW7KWLxbjiy8ohqzG82" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,14 +40,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$USER_HOME$/go/go1.16/src/go-rest-api-clean-architecture-main" />
-=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> 72c6936d1eed77ad5d46b9887202e9de69f48832
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shid\go\src\github.com\theshid\go-trok" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,12 +80,11 @@
       <workItem from="1617671173016" duration="661000" />
       <workItem from="1618007868163" duration="5584000" />
       <workItem from="1618053310076" duration="8485000" />
-<<<<<<< HEAD
       <workItem from="1618225706261" duration="1089000" />
-=======
       <workItem from="1618224241517" duration="1444000" />
       <workItem from="1618226806256" duration="187000" />
->>>>>>> 72c6936d1eed77ad5d46b9887202e9de69f48832
+      <workItem from="1618309459657" duration="702000" />
+      <workItem from="1618310636673" duration="897000" />
     </task>
     <servers />
   </component>
@@ -102,7 +108,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
-    <integration-enabled>true</integration-enabled>
     <proxy>direct</proxy>
   </component>
 </project>
